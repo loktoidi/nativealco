@@ -122,6 +122,7 @@ export const Darkstyles = StyleSheet.create({
   },
   result: {
     marginTop: 20,
+    marginBottom: 10,
     fontSize: 18,
   },
   stickyTextContainer: {

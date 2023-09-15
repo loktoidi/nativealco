@@ -125,7 +125,14 @@ export const Lightstyles = StyleSheet.create({
   },
   result: {
     marginTop: 20,
+    marginBottom: 10,
+    paddingLeft: 5,
+    paddingRight: 5,
     fontSize: 18,
+    backgroundColor: '#050505',
+    borderWidth: 1,
+    borderColor: "#f8f3f3",
+    borderRadius: 8,
   },
   stickyTextContainer: {
     position: 'absolute',
