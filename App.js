@@ -80,7 +80,7 @@ export default function AlcoholCalculator() {
         trackColor={{ false: '#ecbf0a', true: '#ecbf0a' }}
       />
 
-      <Text style={currentStyles.title}>Alcohol Calculator</Text>
+      <Text style={currentStyles.title}>Alcohol‰ Calculator</Text>
       <Text style={currentStyles.genderLabel}>Select gender to start:</Text>
       <View style={currentStyles.genderContainer}>
 

@@ -1,7 +1,6 @@
 import { StyleSheet } from 'react-native';
 import Constants from "expo-constants";
 
-
 export const Lightstyles = StyleSheet.create({
   container: {
     marginTop: Constants.statusBarHeight + 5,
