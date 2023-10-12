@@ -34,7 +34,7 @@ export const Lightstyles = StyleSheet.create({
   title: {
     color: '#f9f9f9',
     textDecorationLine: 'underline',
-    fontSize: 38,
+    fontSize: 35,
     fontWeight: 'bold',
     marginBottom: 60,
     textShadowColor: 'black',
@@ -129,11 +129,11 @@ export const Lightstyles = StyleSheet.create({
     paddingLeft: 5,
     paddingRight: 5,
     fontSize: 18,
-    backgroundColor: '#050505',
-    borderWidth: 1,
-    borderColor: "#f8f3f3",
-    borderRadius: 8,
+    textShadowColor: 'black',
+    textShadowOffset: { width: 2, height: 2 },
+    textShadowRadius: 2,
   },
+  
   stickyTextContainer: {
     position: 'absolute',
     bottom: 10,

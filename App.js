@@ -13,7 +13,6 @@ export default function AlcoholCalculator() {
   };
 
   const currentStyles = isEnabled ? Darkstyles : Lightstyles;
-
   const [weight, setWeight] = useState(0);
   const [bottles, setBottles] = useState(0);
   const [time, setTime] = useState(0);

@@ -35,7 +35,7 @@ export const Darkstyles = StyleSheet.create({
   title: {
     color: '#F7D20E',
     textDecorationLine: 'underline',
-    fontSize: 38,
+    fontSize: 35,
     fontWeight: 'bold',
     marginBottom: 60,
     textShadowColor: '#f7f7f5',
